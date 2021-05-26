@@ -1,3 +1,44 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "MARIA JOSEFINA FILHAS DA SILVA",
+      "age": "32",
+      "address": "RUA DUQUE DE CAXIAS, 69 - CRATO - CE",
+      "cpf": "12345678910",
+      "rg": "83940233",
+      "id": 1
+    },
+    {
+      "name": "JOSÉ DA SILVA SAURO",
+      "age": "50",
+      "address": "RUA DOS BOBOS, 0 - ALTARQUIA - PB",
+      "cpf": "10987654321",
+      "rg": "31203993",
+      "id": 2
+    },
+    {
+      "name": "SHAKIRA PINTOU KABELO DE VERDE",
+      "age": "18",
+      "address": "RUA WAKA WAKA, 33 - LOKA - DM",
+      "cpf": "02394029348",
+      "rg": "1122345",
+      "id": 3
+    },
+    {
+      "name": "ARISTÓTELES FILÓSOFO GREGO",
+      "age": "2000",
+      "address": "BAR DA JÔNIA",
+      "cpf": "00000010000",
+      "rg": "000000",
+      "id": 4
+    },
+    {
+      "name": "FRIDA KAHLO ",
+      "age": "100",
+      "address": "MÉRRICO",
+      "cpf": "77382938892",
+      "rg": "1239423",
+      "id": 5
+    }
+  ]
 }
