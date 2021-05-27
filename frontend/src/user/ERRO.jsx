@@ -18,5 +18,4 @@ export default () => (
       </aside>
     </div>
   </React.Fragment>
-  
 );

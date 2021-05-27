@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "name": "MARIA JOSEFINA FILHAS DA SILVA",
-      "age": "32",
-      "address": "RUA DUQUE DE CAXIAS, 69 - CRATO - CE",
-      "cpf": "12345678910",
-      "rg": "83940233",
-      "id": 1
-    },
-    {
       "name": "JOSÉ DA SILVA SAURO",
       "age": "50",
       "address": "RUA DOS BOBOS, 0 - ALTARQUIA - PB",
@@ -39,6 +31,14 @@
       "cpf": "77382938892",
       "rg": "1239423",
       "id": 5
+    },
+    {
+      "name": "ANA LAIS DUARTE AQUINO DUMONT",
+      "age": "18",
+      "address": "RUA CARLOS JEIRESSATE, 79 - MIRANDÃO - CRATO - CE",
+      "cpf": "12345678911",
+      "rg": "002312",
+      "id": 6
     }
   ]
 }
